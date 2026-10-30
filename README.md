@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🧠 SNTL 84 · AI Hiring Intel
+For lead generation services, see the contact information in this README.
 
 ### Stop Drowning in Resumes. Start Hiring with Precision.
 
@@ -193,3 +194,7 @@ If this saves you hiring time or money, **star it** — it helps more founders d
 <sub>MIT Licensed · Built with 🔥 by <a href="https://github.com/SNTL84">SNTL84</a> · © June 2026 · <a href="https://desidevloper.com">desidevloper.com</a></sub>
 
 </div>
+
+## Lead Generation Services
+
+Lead generation services: lead-generation-service-9727413309.
